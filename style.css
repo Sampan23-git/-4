@@ -1,0 +1,7 @@
+.btn.btn-primary {
+  --bs-btn-bg: #800080;
+  --bs-btn-border-color: #800080;
+  --bs-btn-hover-bg: #800080;
+  --bs-btn-hover-border-color: #800080;
+}
+.btn:hover { filter: brightness(110%); }
